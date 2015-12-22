@@ -2,6 +2,7 @@
 ######鸣谢
     @Jfinal @Jfinal_weixin
 ######本地端口映射参考博客：http://www.cnblogs.com/zyw-205520/p/4733062.html
+######对JSP的支持以及部署Tomcat运行异常问题：http://www.cnblogs.com/zyw-205520/p/5053207.html
 
     微信扣扣号：572839485
     微信开发交流群：148540125
